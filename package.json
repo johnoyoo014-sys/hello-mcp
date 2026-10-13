@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@google/genai": "^2.27.0",
     "@modelcontextprotocol/sdk": "^1.30.0",
+    "openai": "^7.28.0",
     "zod": "^4.6.5"
   },
   "type": "module"
